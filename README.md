@@ -1,21 +1,9 @@
 # 🛡️ Encriptador de Texto
-
-![Portada del Proyecto](logo.png)
-
-[![Licencia MIT](https://img.shields.io/badge/licencia-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Versión](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)]()
-[![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow.svg)]()
-
-## 📑 Índice
-- [Descripción](#-descripción)
-- [Estado](#-estado)
-- [Demostración](#-demostración)
-- [Acceso](#-acceso)
-- [Tecnologías](#-tecnologías)
-- [Desarrolladores](#-desarrolladores)
+![image](https://github.com/user-attachments/assets/c38bde77-010f-4c5f-a9d4-04da0ca3ad08)
 
 ## 📝 Descripción
 **Encriptador de Texto** es una herramienta sencilla para cifrar y descifrar mensajes, ideal para proteger información sensible.
+![image](https://github.com/user-attachments/assets/f23acc57-50d4-41fb-9958-6700e1ce8fe0)
 
 ## 🚀 Estado
 El proyecto está en desarrollo inicial con funciones básicas implementadas.
@@ -35,8 +23,8 @@ El proyecto está en desarrollo inicial con funciones básicas implementadas.
 - JavaScript
 - Git
 - 
-##👨‍💻 Desarrolladores
-Francisco Alvarez
+## 👨‍💻 Desarrollador
+- Francisco Alvarez
 
 ```bash
 git clone https://github.com/tu-usuario/nombre-del-repositorio.git
